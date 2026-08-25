@@ -1,5 +1,6 @@
 App link: https://vae-digit-generator.onrender.com/
 <br>
+
 🧠 Conditional VAE Digit Generator (MNIST)
 
 This project implements a Conditional Variational Autoencoder (CVAE) for generating handwritten digits from the MNIST dataset and deploys the decoder model as a web application using Streamlit on Render.
